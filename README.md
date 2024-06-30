@@ -1,5 +1,5 @@
  # Motion 360
-
+ 
 Welcome to my weekly practice project! This project is built using Next.js, TypeScript, Tailwind CSS, and Framer Motion. It's a simple application designed to practice and showcase my skills in these technologies.
 
 ## Introduction
